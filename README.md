@@ -1,2 +1,2 @@
-# online-employees-management-system-2
+# online-employees-management-system
 is a website for employees management
