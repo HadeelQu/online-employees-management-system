@@ -1,0 +1,275 @@
+body {
+  background: url(../images/background2.png) no-repeat;
+  background-size: cover;
+
+  width: 100%;
+  overflow-x: hidden !important;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+em {
+  position: relative;
+  bottom: 10px;
+  right: 70px;
+}
+#LOGO {
+  position: relative;
+  left: 20px;
+}
+#Button {
+  text-decoration: none;
+  background-color: #57d2d4;
+  color: #ffff;
+  letter-spacing: 1px;
+  border-style: none;
+  padding: 5px;
+  border-radius: 8px;
+  padding: 7px;
+  position: relative;
+  right: 40px;
+}
+
+#Button:hover {
+  background-color: #57d2d4;
+  color: #ffff;
+  letter-spacing: 1px;
+  background: #57d2d4c0;
+  border-style: none;
+}
+.logo {
+  text-decoration: none;
+  font-weight: bold;
+  color: #05254f;
+  font-size: 30px;
+  flex: 1 1 auto;
+  height: 20px;
+  width: 40px;
+  margin-left: 5%;
+}
+
+.navbar {
+  box-shadow: 0.5px 0.5px 20px rgb(204, 204, 204);
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: white;
+  width: 100%;
+  height: 70px;
+  z-index: 1;
+}
+
+#doc {
+  border-radius: 8px;
+  background-color: #57d2d4;
+  padding: 8px;
+  margin: 5x;
+}
+
+#doc:hover {
+  background-color: #57d2d4;
+  color: #ffff;
+  background: #57d2d4c0;
+  border-style: none;
+}
+
+a#doc {
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+  justify-content: right;
+  list-style: none;
+  margin-right: 5%;
+}
+
+.nav a {
+  transition: all 0.3s ease 0s;
+  margin: 15px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #292929;
+}
+
+.nav li a:hover {
+  font-weight: bold;
+  color: #57d2d4;
+}
+
+#edit {
+  font: 20px bold;
+}
+
+#editInfor {
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+  text-align: center;
+}
+fieldset {
+  height: 50%;
+  width: 80%;
+  background: #ffffff;
+  margin: auto;
+  text-align: center;
+}
+.btn {
+  width: 150px;
+  height: 32px;
+  outline: none;
+  color: #57d2d4;
+  font-weight: bold;
+  border: 0px solid #f26724;
+  text-shadow: 0px 0.5px 0.5px #fff;
+  border-radius: 8px;
+  font-weight: 600;
+  color: white;
+  letter-spacing: 1px;
+  font-size: 14px;
+  background-color: #57d2d4;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s;
+}
+.btn:hover {
+  background-color: #57d2d4;
+  color: #ffff;
+  letter-spacing: 1px;
+  background: #57d2d4c0;
+  border-style: none;
+}
+
+.Tit {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#request {
+  font-size: 25px;
+  font-weight: bold;
+}
+#eqinfo {
+  margin: 20px;
+}
+
+footer {
+  position: relative;
+  width: 100%;
+  background-color: #05254f;
+  min-height: 100px;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-left: -70px;
+}
+
+footer .social_icon,
+footer .menu {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+
+footer .social_icon li,
+footer .menu li {
+  list-style: none;
+}
+
+footer .social_icon li a {
+  font-size: 2em;
+  color: white;
+  margin: 0 10px;
+  display: inline-block;
+  transition: 0.5s;
+}
+
+.social .twi,
+.social_icon .twi {
+  width: 50px;
+  height: 50px;
+  margin-left: -8px;
+}
+
+.social_icon img,
+.social img {
+  width: 40px;
+  height: 40px;
+}
+fieldset {
+  box-shadow: 0.5px 0.5px 20px rgb(204, 204, 204);
+  color: #05254f;
+}
+#Doc {
+  position: relative;
+  top: 3px;
+}
+legend {
+  font-weight: bold;
+}
+form {
+  margin: 15px;
+  position: relative;
+}
+footer .social_icon li a:hover {
+  transform: translateY(-10px);
+}
+
+footer .menu li a {
+  font-size: 1.3em;
+  color: white;
+  margin: 0 10px;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 1;
+}
+
+footer .menu li a:hover {
+  opacity: 0.8;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 0.9em;
+  margin-left: 40px;
+}
+
+.up {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  color: #57d2d4;
+  font-size: 50px;
+  bottom: 40px;
+  right: 30px;
+  text-decoration: none;
+  background-color: white;
+  border-radius: 100%;
+  text-align: center;
+  line-height: 50px;
+  order: 3;
+  transition: 0.2s;
+}
+.up:hover {
+  position: fixed;
+  transform: scale(1.2);
+  color: #57d2d4;
+  transition: 0.2s;
+}
