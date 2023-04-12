@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src ="https://user-images.githubusercontent.com/98308845/230183634-d83a79b8-7367-4491-a170-ccbbd94a578e.png" alt="Coffee Detective" >
+<img src ="https://user-images.githubusercontent.com/98308845/230183634-d83a79b8-7367-4491-a170-ccbbd94a578e.png" alt="Superviso" >
 </p>
 <h1 align="center">
-Coffee Detective
+Superviso
 </h1>
 
 ## Table of contents
