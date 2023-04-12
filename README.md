@@ -33,10 +33,12 @@ an edit link
 
 ## Built with 
 This Project is created by:
-*  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<p align="left"> 
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://camo.githubusercontent.com/fd87758fc59a55844627fb6067a253aa4e35da509789a55be28311b0a09eb6cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6a517565727926636f6c6f723d303736394144266c6f676f3d6a5175657279266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
+ <img src="https://camo.githubusercontent.com/fd87758fc59a55844627fb6067a253aa4e35da509789a55be28311b0a09eb6cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6a517565727926636f6c6f723d303736394144266c6f676f3d6a5175657279266c6f676f436f6c6f723d464646464646266c6162656c3d" height="20">
+ </p>
      
 
 
