@@ -8,10 +8,10 @@ Superviso
 
 ## Table of contents
 * [About project](#about-project)
-* [Features](#Features)
-* [Built with](#Built-with)
-* [installition](#installition)
-* [Project Report](#Project-Report)
+* [Features](#features)
+* [Built with](#built-with)
+
+
 
 ## About project
 Superviso is an online employee management website where employees can request different services (i.e., promotion, leave, resignation, allowance, health insurance), and a manager can approve or decline the request.
